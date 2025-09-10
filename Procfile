@@ -1,0 +1,1 @@
+worker: python magic8ball_bot.py
